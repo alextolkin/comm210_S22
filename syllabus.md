@@ -16,7 +16,8 @@
 
 #### TA: Alex Tolkin (he/him/his)
 * Email: alex.tolkin@asc.upenn.edu
-* Office Hours: via Zoom (see link in Canvas)
+* Office Hours via Zoom: http://upenn.zoom.us/my/alextolkin
+  * Thursday 12-1:30 PM
 
 ## Course Description, Goals and Objectives
 
